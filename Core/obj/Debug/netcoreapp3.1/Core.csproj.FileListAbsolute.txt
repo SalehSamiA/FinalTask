@@ -1,0 +1,10 @@
+D:\Download\C#\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Download\C#\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Download\C#\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Download\C#\Core\obj\Debug\netcoreapp3.1\Core.pdb
